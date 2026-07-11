@@ -15,6 +15,9 @@ This application allows users to search for any city and view current weather co
 - ## Preview
 
 ![Weather Dashboard](screenshot1.png)
+![Weather Dashboard](forecast.png)
+![Weather Dashboard](weekly-temp.png)
+![Weather Dashboard](wind-speed.png)
 
 ## Technologies Used
 

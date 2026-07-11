@@ -50,4 +50,12 @@ python -m streamlit run app.py
 Final-year BSc Mathematical Sciences  
 Majoring in Computer Science & Statistics
 
+## Skills Demonstrated
+
+- API Integration
+- Data Processing (Pandas)
+- Data Visualization
+- Web App Development (Streamlit)
+- Deployment (Streamlit Cloud)
+
 

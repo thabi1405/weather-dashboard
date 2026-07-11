@@ -12,6 +12,10 @@ This application allows users to search for any city and view current weather co
 - 7-day weather forecast
 - Clean and responsive dashboard layout
 
+- ## Preview
+
+![Weather Dashboard](screenshot1.png)
+
 ## Technologies Used
 
 - Python
